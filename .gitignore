@@ -1,0 +1,9 @@
+models/
+plant village full dataset/
+PlantVillagePotatoDataset/
+__pycache__/
+*.h5
+*.ckpt
+*.log
+*.tmp
+.DS_Store
