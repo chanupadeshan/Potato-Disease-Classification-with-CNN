@@ -112,6 +112,6 @@ A user-friendly web application is provided for potato disease classification us
 ## 🔮 Future Development
 
 - **XAI Integration:**
-  - Plan to integrate Explainable AI (XAI) techniques (such as Grad-CAM or LIME) to provide visual explanations for model predictions, helping users and researchers understand which parts of the leaf image influenced the classification decision.
-- Additional improvements and features will be considered based on user feedback and research advancements.
+  - Plan to integrate Explainable AI (XAI) techniques (such as Grad-CAM ) to provide visual explanations for model predictions, helping users and researchers understand which parts of the leaf image influenced the classification decision.
+
 
